@@ -1,0 +1,11 @@
+Task 2 – Reflection Notes
+
+In this task, I created my digital portfolio by setting up profiles on GitHub, LinkedIn, and Kaggle. These platforms are widely used for building a professional online presence and showcasing
+skills. GitHub is mainly used for managing and sharing projects, LinkedIn helps in professional networking and career opportunities, and Kaggle is useful for learning data science and practicing
+technical skills.
+
+While completing this task, I learned the importance of maintaining a professional identity online. Creating these profiles helped me understand how students can present their skills, education,
+and interests in a structured manner. I also learned how these platforms can be used for collaboration, learning, and career growth.
+
+In the future, I plan to regularly update my profiles by adding projects, achievements, and new skills. I will use GitHub to upload my work, LinkedIn to connect with professionals, and Kaggle 
+to improve my technical knowledge. Overall, this task helped me take the first step toward building a strong digital presence.
